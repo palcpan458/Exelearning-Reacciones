@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026051315252985GWYA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260513152529JI5D36</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Reacciones Químicas 2º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pablo Alcalde Pancorbo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778612600383</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp300pne-z3x0rsm0b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.- Introducción a las Reacciones Químicas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.- Introducción a las Reacciones Químicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.- Introducción a las Reacciones Químicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp300pne-z3x0rsm0b</odePageId>
+      <odeBlockId>block-1778587954084-4k8qf2ghd</odeBlockId>
+      <blockName>Introducción a Las Reacciones Químicas</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp300pne-z3x0rsm0b</odePageId>
+          <odeBlockId>block-1778587954084-4k8qf2ghd</odeBlockId>
+          <odeIdeviceId>idevice-1778587954080-r36nmuojn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado de 2ºESO de Física y Química es la primera vez que cursa la materia y suelen venir asustados ante los comentarios de sus compañeros que ya la han cursado, en este proyecto se quiere que los alumnos vean por sus propios ojos que tienen mucha química y física en su día a día. En este caso química y el mejor laboratorio lo tienen en su casa donde a diario se dan muchas reacciones químicas. </p>
+<p>Ellos van a partir desde cero y van a ver lo que son los reactivos y como llegan al producto final que posteriormente vamos a deleitar todos juntos en el último día del proyecto final.</p>
+<p><strong>Centro de interés o temática</strong></p>
+<p>Con esta situación de aprendizaje los alumnos conocerán los beneficios y perjuicios de la química. Comprenderán la utilidad de las reacciones químicas y analizarán su impacto en el medioambiente. Aplicarán la ley de la conservación de masa y ajustarán ecuaciones químicas y propondrán alternativas y soluciones para minimizar o evitar este impacto, así como realizarán un experimento en laboratorio.</p>
+<p><strong>Producto Final</strong></p>
+<p>Para el producto final de mi situación de aprendizaje sobre las reacciones químicas en la vida cotidiana, he escogido como herramienta para mis alumnos de 2º ESO, una presentación Canva, ya que creo es una herramienta fácil y sencilla de usar por los alumnos, además ya están familiarizados con ella porque la han usado ya en otras asignaturas de 1º y 2º de ESO, con lo cual va muy acorde a su nivel de competencia digital.</p>
+<p> Para la realización del trabajo final, el alumnado se va a  organizar en grupos de 2 alumnos donde puedan realizar una búsqueda de información, selección de la información más relevante, así como la inclusión de imágenes y vídeos para que la presentación sea más llamativa, habrá que buscar una plantilla y elegir formato, editar textos, añadir los distintos elementos, ajustar el estilo deseado, incluir animaciones, hipervínculos, etc, también harán tras el experimento de la sesión 5 un podcast donde explicarán en grupos de 4, todo lo realizado y los problemas encontrados al realizarlo, así como hacer un análisis de resultados.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778587954080-r36nmuojn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado de 2ºESO de Física y Química es la primera vez que cursa la materia y suelen venir asustados ante los comentarios de sus compañeros que ya la han cursado, en este proyecto se quiere que los alumnos vean por sus propios ojos que tienen mucha química y física en su día a día. En este caso química y el mejor laboratorio lo tienen en su casa donde a diario se dan muchas reacciones químicas. </p>\n<p>Ellos van a partir desde cero y van a ver lo que son los reactivos y como llegan al producto final que posteriormente vamos a deleitar todos juntos en el último día del proyecto final.</p>\n<p><strong>Centro de interés o temática</strong></p>\n<p>Con esta situación de aprendizaje los alumnos conocerán los beneficios y perjuicios de la química. Comprenderán la utilidad de las reacciones químicas y analizarán su impacto en el medioambiente. Aplicarán la ley de la conservación de masa y ajustarán ecuaciones químicas y propondrán alternativas y soluciones para minimizar o evitar este impacto, así como realizarán un experimento en laboratorio.</p>\n<p><strong>Producto Final</strong></p>\n<p>Para el producto final de mi situación de aprendizaje sobre las reacciones químicas en la vida cotidiana, he escogido como herramienta para mis alumnos de 2º ESO, una presentación Canva, ya que creo es una herramienta fácil y sencilla de usar por los alumnos, además ya están familiarizados con ella porque la han usado ya en otras asignaturas de 1º y 2º de ESO, con lo cual va muy acorde a su nivel de competencia digital.</p>\n<p> Para la realización del trabajo final, el alumnado se va a  organizar en grupos de 2 alumnos donde puedan realizar una búsqueda de información, selección de la información más relevante, así como la inclusión de imágenes y vídeos para que la presentación sea más llamativa, habrá que buscar una plantilla y elegir formato, editar textos, añadir los distintos elementos, ajustar el estilo deseado, incluir animaciones, hipervínculos, etc, también harán tras el experimento de la sesión 5 un podcast donde explicarán en grupos de 4, todo lo realizado y los problemas encontrados al realizarlo, así como hacer un análisis de resultados.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp300pnk-ybgkfm9wu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2.- La seguridad ante todo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.- La seguridad ante todo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La seguridad ante todo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.- La seguridad ante todo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp300pnk-ybgkfm9wu</odePageId>
+      <odeBlockId>block-1778589768932-i4f0qiqjp</odeBlockId>
+      <blockName>La Seguridad ante todo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp300pnk-ybgkfm9wu</odePageId>
+          <odeBlockId>block-1778589768932-i4f0qiqjp</odeBlockId>
+          <odeIdeviceId>idevice-1778589768929-0wbmdwiha</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando trabajamos navegando o subiendo contenido a internet tenemos que tener varias cosas en cuenta una de las mas importantes sería utilizar licencias de seguridad en nuestros documentos o información como copyright o copyleft y tener en cuenta todo el material que usamos en nuestros proyectos que pueda ser usado si es de un propietario que no comparte su reproducción en otro autor.</p>
+<p><img src="{{context_path}}/content/resources/infografia (1).jpg" width="347" height="722" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/by-nc-sa.eu_.png" width="166" height="58" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778589768929-0wbmdwiha","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando trabajamos navegando o subiendo contenido a internet tenemos que tener varias cosas en cuenta una de las mas importantes sería utilizar licencias de seguridad en nuestros documentos o información como copyright o copyleft y tener en cuenta todo el material que usamos en nuestros proyectos que pueda ser usado si es de un propietario que no comparte su reproducción en otro autor.</p>\n<p><img src=\"{{context_path}}/content/resources/infografia (1).jpg\" width=\"347\" height=\"722\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/by-nc-sa.eu_.png\" width=\"166\" height=\"58\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp300pno-qquszivmz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3.- Sesiones</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.- Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.- Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.- Sesiones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp300pno-qquszivmz</odePageId>
+      <odeBlockId>block-1778593674773-imqv3vc9a</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp300pno-qquszivmz</odePageId>
+          <odeBlockId>block-1778593674773-imqv3vc9a</odeBlockId>
+          <odeIdeviceId>idevice-1778593674770-rkfffx1ly</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778593674770-rkfffx1ly" title="" href="{{context_path}}/content/resources/vistaPreviaAgrega.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/vistaPreviaAgrega.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778593674770-rkfffx1ly","img_1":{"img":"{{context_path}}/content/resources/vistaPreviaAgrega.png","thumbnail":"{{context_path}}/content/resources/vistaPreviaAgrega.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp300pnp-p2iuyodmy</odePageId>
+  <odeParentPageId>page-mp300pno-qquszivmz</odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp300pnp-p2iuyodmy</odePageId>
+      <odeBlockId>block-1778592625041-dv7eygae4</odeBlockId>
+      <blockName>Sesión de Conocimientos iniciales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp300pnp-p2iuyodmy</odePageId>
+          <odeBlockId>block-1778592625041-dv7eygae4</odeBlockId>
+          <odeIdeviceId>idevice-1778592625039-9k5aop5oa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd></dd></div></dl><p>En la sesión 1 se realizará un Kahoot de conceptos básicos sobre Reacciones Químicas (Definición y partes de una reacción) se trata de una actividad individual realizada con los ordenadores del centro donde solo se pretende conocer el grado de conocimiento inicial de los alumnos sobre el tema a tratar.</p>
+<p><a href="https://create.kahoot.it/details/las-reacciones-quimicas/0595fed4-89b1-40a7-bb55-fe0437d65fb5" title="">https://create.kahoot.it/details/las-reacciones-quimicas/0595fed4-89b1-40a7-bb55-fe0437d65fb5</a></p>
+<p>La evaluación de Kahoot es simplemente el % de respuestas acertadas que nos da el propio Kahoot al terminar de realizarlo, al ser una evaluación inicial de una actividad, en realidad nos da una idea previa de lo que el alumno conoce sobre el tema siendo meramente informativa dicha evaluación inicial por lo tanto no va a influir en su nota final</p>
+<p>A continuación veremos tres vídeos explicativos sobre reacciones químicas que nos ayudarán a entender la base de la teoría.</p>
+<p>Definición y partes de una reacción química:</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/KkR8Vj02LUA?list=PLobiIod6M99gSENzo0tAPmV2SX1_Hr_0y" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Tipos de Reacciones Químicas:</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/2lRmdhgDV-c?t=10s" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Ajuste de reacciones por tanteo fácilmente:</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/4Okc_cqvex8" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778592625039-9k5aop5oa","textInfoDurationInput":"60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd></dd></div></dl><p>En la sesión 1 se realizará un Kahoot de conceptos básicos sobre Reacciones Químicas (Definición y partes de una reacción) se trata de una actividad individual realizada con los ordenadores del centro donde solo se pretende conocer el grado de conocimiento inicial de los alumnos sobre el tema a tratar.</p>\n<p><a href=\"https://create.kahoot.it/details/las-reacciones-quimicas/0595fed4-89b1-40a7-bb55-fe0437d65fb5\" title=\"\">https://create.kahoot.it/details/las-reacciones-quimicas/0595fed4-89b1-40a7-bb55-fe0437d65fb5</a></p>\n<p>La evaluación de Kahoot es simplemente el % de respuestas acertadas que nos da el propio Kahoot al terminar de realizarlo, al ser una evaluación inicial de una actividad, en realidad nos da una idea previa de lo que el alumno conoce sobre el tema siendo meramente informativa dicha evaluación inicial por lo tanto no va a influir en su nota final</p>\n<p>A continuación veremos tres vídeos explicativos sobre reacciones químicas que nos ayudarán a entender la base de la teoría.</p>\n<p>Definición y partes de una reacción química:</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/KkR8Vj02LUA?list=PLobiIod6M99gSENzo0tAPmV2SX1_Hr_0y\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Tipos de Reacciones Químicas:</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/2lRmdhgDV-c?t=10s\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Ajuste de reacciones por tanteo fácilmente:</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/4Okc_cqvex8\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp300pnr-pvtkt6eqt</odePageId>
+  <odeParentPageId>page-mp300pno-qquszivmz</odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp300pnr-pvtkt6eqt</odePageId>
+      <odeBlockId>block-1778610914668-ad7we0kj8</odeBlockId>
+      <blockName>Ajuste y clasificación de las reacciones químicas (Ley
+de Lavoisier) Actividad Individual</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp300pnr-pvtkt6eqt</odePageId>
+          <odeBlockId>block-1778610914668-ad7we0kj8</odeBlockId>
+          <odeIdeviceId>idevice-1778610914667-vwp5a6huo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>50 minutos</dd></div><div class="inline"><dt><span title="Prueba Individual">Prueba Individual</span></dt><dd></dd></div></dl><p>Tras un repaso de todo lo visto anteriormente de 30 minutos vamos a hacer un cuestionario en la web de <strong>Educaplay</strong> donde los alumnos realizarán un cuestionario de 10 preguntas sobre lo ya explicado, donde demostrarán si han entendido los conceptos fundamentales.</p>
+<p>La evaluación de esta actividad es mediante un cuestionario de reacciones químicas en <strong>Educaplay</strong>, que nos dará una nota directamente al acabar de realizar la actividad, suele ser una actividad tipo test con 10 preguntas donde la puntuación es numérica del 0 al 10 según los aciertos que cada alumno tenga.</p>
+<p>Prueba Educaplay:</p>
+<p><a href="https://es.educaplay.com/recursos-educativos/6055587-reacciones_quimicas.html" title="">https://es.educaplay.com/recursos-educativos/6055587-reacciones_quimicas.html</a></p>
+<p><br /></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778610914667-vwp5a6huo","textInfoDurationInput":"50 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Prueba Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>50 minutos</dd></div><div class=\"inline\"><dt><span title=\"Prueba Individual\">Prueba Individual</span></dt><dd></dd></div></dl><p>Tras un repaso de todo lo visto anteriormente de 30 minutos vamos a hacer un cuestionario en la web de <strong>Educaplay</strong> donde los alumnos realizarán un cuestionario de 10 preguntas sobre lo ya explicado, donde demostrarán si han entendido los conceptos fundamentales.</p>\n<p>La evaluación de esta actividad es mediante un cuestionario de reacciones químicas en <strong>Educaplay</strong>, que nos dará una nota directamente al acabar de realizar la actividad, suele ser una actividad tipo test con 10 preguntas donde la puntuación es numérica del 0 al 10 según los aciertos que cada alumno tenga.</p>\n<p>Prueba Educaplay:</p>\n<p><a href=\"https://es.educaplay.com/recursos-educativos/6055587-reacciones_quimicas.html\" title=\"\">https://es.educaplay.com/recursos-educativos/6055587-reacciones_quimicas.html</a></p>\n<p><br /></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778614881843-g2uobw6d0</odePageId>
+  <odeParentPageId>page-mp300pno-qquszivmz</odeParentPageId>
+  <pageName>Sesión 3 y 4</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3 y 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3 y 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778614881843-g2uobw6d0</odePageId>
+      <odeBlockId>block-1778614889445-sccip49xs</odeBlockId>
+      <blockName>Reacciones Químicas Cotidianas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778614881843-g2uobw6d0</odePageId>
+          <odeBlockId>block-1778614889445-sccip49xs</odeBlockId>
+          <odeIdeviceId>idevice-1778614889443-4t6cmaem7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos por sesión</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Por parejas</dd></div></dl><p>La realización de esta actividad es sobre las reacciones químicas más cotidianas que vemos a diario y casi nunca nos percatamos que están sucediendo, dicha actividad de 2 sesiones de duración, la harán mediante <strong>Canva o Genially </strong>en parejas de 2, <strong>la evaluación</strong>, se basa en una rúbrica donde también tendremos en cuenta la estructura y organización, contenido, expresión oral, recursos visuales, tiempo y gestión, siendo las valoraciones de Insuficiente(1), Básico(2), Satisfactorio(3) y Excelente(4)</p>
+<p>En el apartado de evaluación más adelante incluiré todas las rúbricas que se van a usar para evaluar las distintas tareas.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778614889443-4t6cmaem7","textInfoDurationInput":"60 minutos por sesión","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Por parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos por sesión</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Por parejas</dd></div></dl><p>La realización de esta actividad es sobre las reacciones químicas más cotidianas que vemos a diario y casi nunca nos percatamos que están sucediendo, dicha actividad de 2 sesiones de duración, la harán mediante <strong>Canva o Genially </strong>en parejas de 2, <strong>la evaluación</strong>, se basa en una rúbrica donde también tendremos en cuenta la estructura y organización, contenido, expresión oral, recursos visuales, tiempo y gestión, siendo las valoraciones de Insuficiente(1), Básico(2), Satisfactorio(3) y Excelente(4)</p>\n<p>En el apartado de evaluación más adelante incluiré todas las rúbricas que se van a usar para evaluar las distintas tareas.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778615254115-hjaarwinm</odePageId>
+  <odeParentPageId>page-mp300pno-qquszivmz</odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778615254115-hjaarwinm</odePageId>
+      <odeBlockId>block-1778615262069-9xjygtnxk</odeBlockId>
+      <blockName>Volcán de lava, la reacción entre el vinagre y el bicarbonato</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778615254115-hjaarwinm</odePageId>
+          <odeBlockId>block-1778615262069-9xjygtnxk</odeBlockId>
+          <odeIdeviceId>idevice-1778615262067-v2zrlaoif</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 4 alumnos</dd></div></dl><p>La tarea de esta sesión será la realización de un experimento en el laboratorio de ciencias, se tratará de una reacción química entre el ácido acético (vinagre) y el bicarbonato de sodio, conocida como el volcán de lava por la cantidad de gases que desprende, para la realización de dicho experimento seguirán la siguiente receta dada por el profesor previamente donde además de seguir los pasos con mucho cuidado tendrán que seguir la normas de seguridad que hay que cumplir en el laboratorio, la receta a seguir será la siguiente:</p>
+<p><img src="{{context_path}}/content/resources/Reacción Bicarbonato y Vinagre-Volcán de Lava.pdf" alt="" width="NaN" height="NaN" title="" /><a href="https://museodeciencias.unav.edu/documents/11140003/32632495/gasificantes.pdf/1de0ab66-05ca-b16c-0986-1ed4f32378ab?t=1590061746000">https://museodeciencias.unav.edu/documents/11140003/32632495/gasificantes.pdf/1de0ab66-05ca-b16c-0986-1ed4f32378ab?t=1590061746000</a></p>
+<p><br /></p>
+<p>Para <strong>evaluar</strong> el experimento realizado en el laboratorio voy a usar la <strong>observación directa</strong> para valorar las normas de seguridad en el laboratorio junto a una <strong>rúbrica</strong> que indica muchos de los aspectos que deben tener en cuenta los alumnos al realizar el experimento como la definición del problema, formulación de hipótesis, experimentación, análisis de datos y comunicación de resultados dando una valoración de: Excelente(4), Satisfactorio(3), Elemental(2) e Inadecuado(1) en función del desempeño de cada grupo .</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778615262067-v2zrlaoif","textInfoDurationInput":"60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 4 alumnos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos de 4 alumnos</dd></div></dl><p>La tarea de esta sesión será la realización de un experimento en el laboratorio de ciencias, se tratará de una reacción química entre el ácido acético (vinagre) y el bicarbonato de sodio, conocida como el volcán de lava por la cantidad de gases que desprende, para la realización de dicho experimento seguirán la siguiente receta dada por el profesor previamente donde además de seguir los pasos con mucho cuidado tendrán que seguir la normas de seguridad que hay que cumplir en el laboratorio, la receta a seguir será la siguiente:</p>\n<p><img src=\"{{context_path}}/content/resources/Reacción Bicarbonato y Vinagre-Volcán de Lava.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\" title=\"\" /><a href=\"https://museodeciencias.unav.edu/documents/11140003/32632495/gasificantes.pdf/1de0ab66-05ca-b16c-0986-1ed4f32378ab?t=1590061746000\">https://museodeciencias.unav.edu/documents/11140003/32632495/gasificantes.pdf/1de0ab66-05ca-b16c-0986-1ed4f32378ab?t=1590061746000</a></p>\n<p><br /></p>\n<p>Para <strong>evaluar</strong> el experimento realizado en el laboratorio voy a usar la <strong>observación directa</strong> para valorar las normas de seguridad en el laboratorio junto a una <strong>rúbrica</strong> que indica muchos de los aspectos que deben tener en cuenta los alumnos al realizar el experimento como la definición del problema, formulación de hipótesis, experimentación, análisis de datos y comunicación de resultados dando una valoración de: Excelente(4), Satisfactorio(3), Elemental(2) e Inadecuado(1) en función del desempeño de cada grupo .</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778616772682-q3q4mmh08</odePageId>
+  <odeParentPageId>page-mp300pno-qquszivmz</odeParentPageId>
+  <pageName>Sesión 6</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778616772682-q3q4mmh08</odePageId>
+      <odeBlockId>block-1778616781571-dltq48o29</odeBlockId>
+      <blockName>Podcast sobre el experimento</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778616772682-q3q4mmh08</odePageId>
+          <odeBlockId>block-1778616781571-dltq48o29</odeBlockId>
+          <odeIdeviceId>idevice-1778616781569-77oa6e1jr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos</dd></div><div class="inline"><dt><span title=""></span></dt><dd>Grupos de 4</dd></div></dl><p>La Tarea final, será un Podcast explicativo sobre el experimento: Dificultades encontradas y análisis del resultado final.</p>
+<p>De nuevo el uso de una <strong>rúbrica</strong> nos ayudará a valorar dicha actividad teniendo en cuenta ítems como contenido, guión y estructura, voz y dicción así como creatividad dando valoraciones como las anteriores rúbricas ya citadas, Excelente(4), Satisfactorio(3), Elemental(2) e Inadecuado(1) en función del desempeño de cada grupo.</p>
+<p>Para ello, se usarán herramientas como Audacity o Adobe Auditon.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778616781569-77oa6e1jr","textInfoDurationInput":"60 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 4","textInfoParticipantsTextInput":"","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos</dd></div><div class=\"inline\"><dt><span title=\"\"></span></dt><dd>Grupos de 4</dd></div></dl><p>La Tarea final, será un Podcast explicativo sobre el experimento: Dificultades encontradas y análisis del resultado final.</p>\n<p>De nuevo el uso de una <strong>rúbrica</strong> nos ayudará a valorar dicha actividad teniendo en cuenta ítems como contenido, guión y estructura, voz y dicción así como creatividad dando valoraciones como las anteriores rúbricas ya citadas, Excelente(4), Satisfactorio(3), Elemental(2) e Inadecuado(1) en función del desempeño de cada grupo.</p>\n<p>Para ello, se usarán herramientas como Audacity o Adobe Auditon.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778617248742-2d6javfdb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4.- Línea del Tiempo</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.- Línea del Tiempo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778617248742-2d6javfdb</odePageId>
+      <odeBlockId>block-1778617382686-48kp0bgdm</odeBlockId>
+      <blockName>Línea de Tiempo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778617248742-2d6javfdb</odePageId>
+          <odeBlockId>block-1778617382686-48kp0bgdm</odeBlockId>
+          <odeIdeviceId>idevice-1778617382684-z5w4mctc4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Línea Temporal_page-0001.jpg" width="1250" height="3125" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778617382684-z5w4mctc4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Línea Temporal_page-0001.jpg\" width=\"1250\" height=\"3125\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778618042014-tp6d3z3l2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5.- Herramientas de Curación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.- Herramientas de Curación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778618042014-tp6d3z3l2</odePageId>
+      <odeBlockId>block-1778618049264-5qow4zh2j</odeBlockId>
+      <blockName>Herramientas de Curación usadas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778618042014-tp6d3z3l2</odePageId>
+          <odeBlockId>block-1778618049264-5qow4zh2j</odeBlockId>
+          <odeIdeviceId>idevice-1778618049263-z0hkybp4g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Herramienta de curación para el alumnado</p>
+<p><a href="https://padlet.com/palcpan458/reacciones-quimicas-h46qnthp4dso6481" title="">https://padlet.com/palcpan458/reacciones-quimicas-h46qnthp4dso6481</a></p>
+<p></p>
+<p>Herramienta de curación que uso habitualmente</p>
+<p><a href="https://www.symbaloo.com/mix/las-reacciones-quimicas?q=reacciones%20qu%C3%ADmicas" title="">https://www.symbaloo.com/mix/las-reacciones-quimicas?q=reacciones%20qu%C3%ADmicas</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778618049263-z0hkybp4g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Herramienta de curación para el alumnado</p>\n<p><a href=\"https://padlet.com/palcpan458/reacciones-quimicas-h46qnthp4dso6481\" title=\"\">https://padlet.com/palcpan458/reacciones-quimicas-h46qnthp4dso6481</a></p>\n<p></p>\n<p>Herramienta de curación que uso habitualmente</p>\n<p><a href=\"https://www.symbaloo.com/mix/las-reacciones-quimicas?q=reacciones%20qu%C3%ADmicas\" title=\"\">https://www.symbaloo.com/mix/las-reacciones-quimicas?q=reacciones%20qu%C3%ADmicas</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778618269328-vlxbxq5b9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6.- Evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.- Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.- Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778618269328-vlxbxq5b9</odePageId>
+      <odeBlockId>block-1778618287098-8exh4uogl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778618269328-vlxbxq5b9</odePageId>
+          <odeBlockId>block-1778618287098-8exh4uogl</odeBlockId>
+          <odeIdeviceId>idevice-1778618287095-7tqjkzpuj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación de las tareas de los alumnos vamos a usar para la prueba de la sesión tal y como ya indicamos una valoración numérica del 0 al 10 según la puntuación obtenida por el alumno.</p>
+<p>Para la realización del canva una rúbrica de este tipo:</p>
+<p><img src="{{context_path}}/content/resources/Rúbrica-de-Evaluación-Canva.jpg" width="698" height="987" alt="" /></p>
+<p>Para la seguridad de las normas en el laboratorio usaré la observación directa</p>
+<p>Para la rúbrica del experimento usaré esta rúbrica:</p>
+<p><img src="{{context_path}}/content/resources/rubrica-para-evaluar-experimentos_page-0001.jpg" width="708" height="1000" alt="" /></p>
+<p>Para evaluar el Podcast usaré la siguiente rúbrica:</p>
+<p><img src="{{context_path}}/content/resources/RÚBRICA-DE-PODCAST.jpg" width="707" height="1000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778618287095-7tqjkzpuj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación de las tareas de los alumnos vamos a usar para la prueba de la sesión tal y como ya indicamos una valoración numérica del 0 al 10 según la puntuación obtenida por el alumno.</p>\n<p>Para la realización del canva una rúbrica de este tipo:</p>\n<p><img src=\"{{context_path}}/content/resources/Rúbrica-de-Evaluación-Canva.jpg\" width=\"698\" height=\"987\" alt=\"\" /></p>\n<p>Para la seguridad de las normas en el laboratorio usaré la observación directa</p>\n<p>Para la rúbrica del experimento usaré esta rúbrica:</p>\n<p><img src=\"{{context_path}}/content/resources/rubrica-para-evaluar-experimentos_page-0001.jpg\" width=\"708\" height=\"1000\" alt=\"\" /></p>\n<p>Para evaluar el Podcast usaré la siguiente rúbrica:</p>\n<p><img src=\"{{context_path}}/content/resources/RÚBRICA-DE-PODCAST.jpg\" width=\"707\" height=\"1000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778619114790-g4rb7mkn1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7.- Guía didáctica y Criterios asociados a las tareas.</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.- Guía didáctica y Criterios asociados a las tareas.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778619114790-g4rb7mkn1</odePageId>
+      <odeBlockId>block-1778619124182-ej6er8cym</odeBlockId>
+      <blockName>Guía didáctica y Criterios asociados a las tareas.</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778619114790-g4rb7mkn1</odePageId>
+          <odeBlockId>block-1778619124182-ej6er8cym</odeBlockId>
+          <odeIdeviceId>idevice-1778619124180-se47q7lib</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Criterios asociados a las tareas a realizar por el alumno</p>
+<p><a href="https://drive.google.com/file/d/1PbbDFvB6kwA3qvQgIRmR6GZ82YKCCLlZ/view?usp=sharing" title="">https://drive.google.com/file/d/1PbbDFvB6kwA3qvQgIRmR6GZ82YKCCLlZ/view?usp=sharing</a></p>
+<p>Criterios, competencias generales y saberes básicos del curso de 2º de Física y Química</p>
+<p><a href="https://drive.google.com/file/d/1GIotfAUNIsDmzoRegE2Vp0rPmeg8HAVH/view?usp=sharing" title="">https://drive.google.com/file/d/1GIotfAUNIsDmzoRegE2Vp0rPmeg8HAVH/view?usp=sharing</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778619124180-se47q7lib","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Criterios asociados a las tareas a realizar por el alumno</p>\n<p><a href=\"https://drive.google.com/file/d/1PbbDFvB6kwA3qvQgIRmR6GZ82YKCCLlZ/view?usp=sharing\" title=\"\">https://drive.google.com/file/d/1PbbDFvB6kwA3qvQgIRmR6GZ82YKCCLlZ/view?usp=sharing</a></p>\n<p>Criterios, competencias generales y saberes básicos del curso de 2º de Física y Química</p>\n<p><a href=\"https://drive.google.com/file/d/1GIotfAUNIsDmzoRegE2Vp0rPmeg8HAVH/view?usp=sharing\" title=\"\">https://drive.google.com/file/d/1GIotfAUNIsDmzoRegE2Vp0rPmeg8HAVH/view?usp=sharing</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778660238851-g7oypxmkb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8.- Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.- Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778660238851-g7oypxmkb</odePageId>
+      <odeBlockId>block-1778661886404-e8ufi76v7</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778660238851-g7oypxmkb</odePageId>
+          <odeBlockId>block-1778661886404-e8ufi76v7</odeBlockId>
+          <odeIdeviceId>idevice-1778661886402-wx3l88b6s</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Reacciones Químicas 2º ESO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pablo Alcalde Pancorbo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
